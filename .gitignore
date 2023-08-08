@@ -1,0 +1,14 @@
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+/www
+
+# System files
+/public
+
+# Security
+.env
